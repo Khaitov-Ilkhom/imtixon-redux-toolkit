@@ -1,0 +1,21 @@
+.main-container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+}
+
+.search_input {
+  appearance: none;
+  background-color: transparent;
+  border: none;
+  width: 100%;
+  outline: none;
+}
+
+.ant-select-selector {
+  border: none !important;
+  outline: none !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
